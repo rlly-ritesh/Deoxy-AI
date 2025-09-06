@@ -41,7 +41,8 @@ AI Image Creation: Converts text into visuals to aid understanding.
 
  Gamified Learning: Progress tracking, rewards, and personalized interface.
 
-
+<h2> Wireframing & Flow </h2>
+![Wireframing & Flow](https://media.discordapp.net/attachments/1347137221357998141/1413859924861259817/WhatsApp_Image_2025-09-06_at_17.36.57_a6713706.jpg?ex=68bd772a&is=68bc25aa&hm=ce81da50d879a8a4eb82d2f2807d96b06ceabb33a9b233bf92ffd826ca0fbace&=&format=webp&width=1061&height=805)
 
 ---
 
