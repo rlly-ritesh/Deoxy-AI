@@ -55,12 +55,12 @@
   --sidebar-accent-foreground: oklch(0.205 0 0);
   --sidebar-border: oklch(0.922 0 0);
   --sidebar-ring: oklch(0.708 0 0);
-  --bg: #fff7ed;
-  --fg: #0b1220;
-  --panel-bg: #ffffff;
-  --border-c: #e5e7eb;
-  --color-brand: #0d9488;
-  --color-pastel: #ecfeff;
+  --bg: #fff7ed; /* cream */
+  --fg: #0b1220; /* near-black */
+  --panel-bg: #ffffff; /* white */
+  --border-c: #e5e7eb; /* neutral border derived from white/fg */
+  --color-brand: #0d9488; /* teal */
+  --color-pastel: #ecfeff; /* mint */
 }
 
 .dark {
@@ -96,12 +96,12 @@
   --sidebar-accent-foreground: oklch(0.985 0 0);
   --sidebar-border: oklch(0.269 0 0);
   --sidebar-ring: oklch(0.439 0 0);
-  --bg: #0b1220;
-  --fg: #ecfeff;
-  --panel-bg: #111827;
+  --bg: #0b1220; /* near-black (navy) */
+  --fg: #ecfeff; /* mint as light text */
+  --panel-bg: #111827; /* dark panel */
   --border-c: #1f2937;
-  --color-brand: #0d9488;
-  --color-pastel: #ecfeff;
+  --color-brand: #0d9488; /* teal */
+  --color-pastel: #ecfeff; /* mint */
 }
 
 @theme inline {
@@ -146,30 +146,30 @@
 }
 
 [data-theme="cream"] {
-  --bg: #fff7ed;
-  --fg: #0b1220;
-  --panel-bg: #ffffff;
+  --bg: #fff7ed; /* cream */
+  --fg: #0b1220; /* near-black */
+  --panel-bg: #ffffff; /* white */
   --border-c: #e5e7eb;
-  --color-brand: #0d9488;
-  --color-pastel: #ecfeff;
+  --color-brand: #0d9488; /* teal */
+  --color-pastel: #ecfeff; /* mint */
 }
 
 [data-theme="pastel"] {
-  --bg: #ecfeff;
-  --fg: #0b1220;
-  --panel-bg: #ffffff;
+  --bg: #ecfeff; /* mint */
+  --fg: #0b1220; /* near-black */
+  --panel-bg: #ffffff; /* white */
   --border-c: #dbeafe;
-  --color-brand: #0d9488;
-  --color-pastel: #ffffff;
+  --color-brand: #0d9488; /* teal */
+  --color-pastel: #ffffff; /* use white as on-brand text when needed */
 }
 
 [data-theme="dark"] {
-  --bg: #0b1220;
-  --fg: #ecfeff;
-  --panel-bg: #111827;
+  --bg: #0b1220; /* near-black (navy) */
+  --fg: #ecfeff; /* mint as light text */
+  --panel-bg: #111827; /* dark panel */
   --border-c: #1f2937;
-  --color-brand: #0d9488;
-  --color-pastel: #ecfeff;
+  --color-brand: #0d9488; /* teal */
+  --color-pastel: #ecfeff; /* mint */
 }
 
 /* Utility: ensure borders and focus rings pick up our tokens inside chat panel scopes */
