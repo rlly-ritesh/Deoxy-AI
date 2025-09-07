@@ -28,6 +28,7 @@ Deoxy AI provides a comprehensive dyslexia-friendly platform that integrates AI 
 ---
 
  Core Features
+ ## 📌 Live Camera Tracking for Brightness Control
 ![Live Camera - Eyes Tracking](https://media.discordapp.net/attachments/1370097532448800828/1414288931742158990/image.png?ex=68bf06b5&is=68bdb535&hm=b5e24bedb2d72c541dddcc35d4f85ea4f6e9506ab274017b89786b81e82c9337&=&format=webp&quality=lossless)
 ^^ This Feature got added in the last moment so we can't make a vid of it 
 
