@@ -159,7 +159,7 @@ importers:
         specifier: latest
         version: 5.38.6
       tailwind-merge:
-        specifier: ^2.5.5
+        specifier: ^2.6.0
         version: 2.6.0
       tailwindcss-animate:
         specifier: ^1.0.7
