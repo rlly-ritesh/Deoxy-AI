@@ -61,7 +61,7 @@ export default function SignupPage() {
         >
           Sign up
         </button>
-        <p className="text-xs opacity-80">Note: This is demo-only and not secure.</p>
+        <p className="text-xs opacity-80">Note: This is RITESH  demo-only and not secure.</p>
       </form>
     </main>
   )
